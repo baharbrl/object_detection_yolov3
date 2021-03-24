@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("images/people.jpg")
+img = cv2.imread("people.jpg")
 #print(img)
 
 img_width = img.shape[1]
